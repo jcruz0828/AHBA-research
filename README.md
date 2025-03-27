@@ -1,7 +1,3 @@
-Here’s a structured README for your GitHub project:
-
----
-
 # AHBA Research
 
 Welcome to the **AHBA Research** project! This project aims to leverage data from the **Allen Human Brain Atlas (AHBA)** to develop machine learning models that map brain regions to diseases. By utilizing gene expression data and MRI images, we aim to uncover insights into how specific brain regions are associated with various neurological conditions.
